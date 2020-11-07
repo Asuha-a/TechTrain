@@ -19,6 +19,4 @@ assignees: Asuha-a
 - [ ] 
 - [ ] 
 
-## Deadline
-
 ## References
